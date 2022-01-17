@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Dongle', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.main-content {
+    text-align: center;
+    font-size: 25px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+ul {
+    list-style: none;
+}
